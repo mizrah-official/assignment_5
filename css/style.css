@@ -1,0 +1,67 @@
+.headline{
+	font-size: 50px;
+}
+.alternative_cta{
+	text-decoration: none;
+	padding: 0px 20px;
+	font-size: 19px;
+	font-family: tahoma;
+}
+.benefit_driven_cta{
+    font-family: tahoma;
+}
+.media_coverage{
+font-size: 30px;
+padding: 58px;
+}
+.section_1_part_1{	
+background-color: #f1f0f0;
+margin: 60px 0px;
+}
+.hubspot{
+	padding-left: 150px;
+}
+.trello{
+padding-right: 150px;
+}
+.section-headline{
+
+margin-top: 200px;
+
+margin-bottom: 100px;
+}
+.section_3{
+	padding-top: 150px;
+}
+.laptop{
+	width: 50%;
+}
+.Image-Product{
+	width: 80%;
+}
+.Image-to-support-problem{
+	margin-top: 125px;
+}
+.linkedin{
+	padding-left: 500px;
+}
+.messenger{
+	padding-right: 500px;
+}
+.section_4{
+	background-color: #f1f0f0;
+	margin: 60px 0px;
+}
+.problem{
+	padding-left: 200px;
+	padding-top: 60px;
+}
+.context{
+	padding-top: 60px;
+}
+.support{
+	padding-top: 120px;
+}
+.what{
+	padding-top: 120px;
+}
